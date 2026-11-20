@@ -1,0 +1,103 @@
+[
+  {
+    "question": "How does supervised classification differ from unsupervised clustering?",
+    "page": [
+      6
+    ]
+  },
+  {
+    "question": "What is the difference between a distance measure and a similarity measure?",
+    "page": [
+      7
+    ]
+  },
+  {
+    "question": "What is a core point in DBSCAN?",
+    "page": [
+      26,
+      53
+    ]
+  },
+  {
+    "question": "What is a noise point in DBSCAN?",
+    "page": [
+      26,
+      53
+    ]
+  },
+  {
+    "question": "What are the steps of the DBSCAN algorithm?",
+    "page": [
+      55
+    ]
+  },
+  {
+    "question": "Which point is labelled as noise in the DBSCAN worked example?",
+    "page": [
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "question": "What are the advantages of DBSCAN?",
+    "page": [
+      66
+    ]
+  },
+  {
+    "question": "What are the limitations of DBSCAN?",
+    "page": [
+      67
+    ]
+  },
+  {
+    "question": "Compare DBSCAN, k-means and MST-based clustering",
+    "page": [
+      68
+    ]
+  },
+  {
+    "question": "How are clusters formed from the minimum spanning tree by removing edges?",
+    "page": [
+      34
+    ]
+  },
+  {
+    "question": "How is the weighted graph constructed for MST clustering?",
+    "page": [
+      33
+    ]
+  },
+  {
+    "question": "What is the total weight of the MST in the worked example?",
+    "page": [
+      38,
+      39
+    ]
+  },
+  {
+    "question": "What is the key idea of a Gaussian mixture model?",
+    "page": [
+      71
+    ]
+  },
+  {
+    "question": "What does the mixing coefficient mean in the GMM density?",
+    "page": [
+      73
+    ]
+  },
+  {
+    "question": "What happens in the E-step and the M-step of the EM algorithm?",
+    "page": [
+      80
+    ]
+  },
+  {
+    "question": "What initial parameters are used in the GMM worked example?",
+    "page": [
+      84
+    ]
+  }
+]
